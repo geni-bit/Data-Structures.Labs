@@ -1,3 +1,9 @@
+/*
+
+Program: this program will calculate circumference and area for circles with a variety of values for radius.
+
+*/
+
 // include all necessary libraries
 #include <iostream>
 
